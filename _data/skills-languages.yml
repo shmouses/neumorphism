@@ -26,5 +26,5 @@
 - name: Docker
   weight: 2
   
- - name: SQL
+- name: SQL
   weight: 1
